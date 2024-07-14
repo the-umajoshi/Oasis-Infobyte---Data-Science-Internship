@@ -28,4 +28,5 @@ Technologies Used 🛠️
 🧠 Machine Learning Techniques
 
 Thank You
-Thank you for checking out my repository! I hope you find the projects and code provided helpful and informative. If you have any questions or suggestions, please feel free to reach out.😊
+Thank you for checking out my repository! I hope you find the projects and code provided helpful and informative.
+If you have any questions or suggestions, please feel free to reach out.😊
